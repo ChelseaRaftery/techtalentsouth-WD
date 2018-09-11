@@ -96,4 +96,16 @@
 
 </html>
 ```
+<<<<<<< HEAD
 >>>>>>> 7f4d2cfbcd129330c328ea8d2c5c3150bb8656c0
+=======
+    <hr/>
+    <img src="Profile.png" width= "1200px"/>
+    <img src="Profile.png" width= "100%" />
+    <a href="https://instagram.com/cmae2387" target="_blank">Follow me on Instagram</a>
+  </main>
+</body>
+
+</html>
+```
+>>>>>>> cbc410ec4d310f355be4ea6d4cf1c17593336cee
