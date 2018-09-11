@@ -47,7 +47,7 @@
 
 ## Paragraphs and styles
 - `<p>`is for paragraph
-- `<strong` is bold
+- `<strong>` is bold
 - `<em>` is italic
 - `<u>` is underline
 
@@ -67,4 +67,33 @@
     <li>Bake the ingredients at 300 degrees for 35 miutes</li>
     <li>Let the cake chill and serve</li>
 </ol>
+
+</body>
 ```
+<<<<<<< HEAD
+## Adding and Images and links
+- `<hr>` is for adding a thematic break like a line
+- `<image>` allows you to add an image
+- You can select a source by using `<src>` and adjust the responsiveness using `<width>`  
+- `<a [id]: url "title"` refers to a a specific link you want to reference
+- Title allows you to edit your hyperlink
+
+<hr/>
+<img src="Profile.png" width= "1200px"/>
+<img src="Profile.png" width= "100%" />
+<a href="https://instagram.com/cmae2387" target="_blank">Follow me on Instagram</a>
+</main>
+</body>
+
+</html>
+=======
+    <hr/>
+    <img src="Profile.png" width= "1200px"/>
+    <img src="Profile.png" width= "100%" />
+    <a href="https://instagram.com/cmae2387" target="_blank">Follow me on Instagram</a>
+  </main>
+</body>
+
+</html>
+```
+>>>>>>> 7f4d2cfbcd129330c328ea8d2c5c3150bb8656c0
