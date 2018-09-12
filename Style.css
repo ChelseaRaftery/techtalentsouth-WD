@@ -1,0 +1,57 @@
+
+@import url("https://fonts.googleapis.com/css?family=Lato");
+
+body{
+  /* Background Colors  */
+  background-color: lightblue;
+  /* RGBA is Red, Green, Blue, alpha (transparency) */
+  background-color: rgba(255, 0, 0, .5);
+  background-color: black;
+
+/* Text color with a word */
+  color: darkblue;
+/*  Text color with a HEX Code */
+/* Hex Code is create with red, blue, green #RRGGBB */
+/* Hex numbers are 0-15 represented by 1-9,a-f  */
+  color: #ffffff;
+  color: #000000;
+  color: rgba(0, 0, 0, 0);
+  /* Hexcodes can also have an alpha value. #RRGGBBAA */
+  color: #FFFFFF;
+
+  /* This is a background image that repeats (pattern) */
+  background-image: url("images/back.png");
+  /* Post a remote image */
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg");
+
+  background-size: 200px;
+  /* Cover means to cover the entire page with the image - may stretch */
+  background-size: cover;
+  /* Contain means show the full image */
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  background-position: top right;
+
+}
+
+h1{
+  font-size: 35px;
+  /* em equlas current font siz e- dynamic  */
+  line-height: 2em;
+  text-align: center;
+  text-align: right;
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.google-font{
+font-family: 'Lato', sans-serif;
+
+}
+.yellow-text{
+color: yellow;
+}
+
+#urgent{
+  color: red;
+}
