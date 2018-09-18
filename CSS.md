@@ -60,6 +60,7 @@ tag {
 
 ## Fonts
 ```css
+{
 @import https://fonts.google.com/
 
 font-size: 35px;
@@ -68,6 +69,24 @@ line-height: 2em;
 text-align: center;
 text-align: right;
 font-family: "Helvetica", "Arial", sans-serif;
+
+}
+```
+
+## Classes
+```CSS
+/* Create classes */
+.google-font{
+font-family: 'Lato', sans-serif;
+
+}
+.yellow-text{
+color: yellow;
+}
+
+#urgent{
+  color: red;
+
 
 }
 ```
