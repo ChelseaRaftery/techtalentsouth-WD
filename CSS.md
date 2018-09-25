@@ -90,3 +90,25 @@ color: yellow;
 
 }
 ```
+
+## Global, Tag, Class and ID
+```css
+p{
+  color: #111
+
+}
+/* Classes and IDs name must start with a letter*/
+
+.class-name{
+color: #222;
+
+}
+#ID-name{
+  color: #333;
+
+}
+
+/* declarations have different levels of priorities  - even if order mix */
+  - a global tag is generic like a 'p'
+  - a class will override a Global
+  - ID will override a class
