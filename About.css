@@ -1,6 +1,40 @@
-<link rel="stylesheet" href= "about.html" type = text/css"/>
+@import url('https://fonts.googleapis.com/css?family=Notable');
 
-body}
+body{
 
-background-color: lightblue;
-color:
+background-color: lightgreen;
+color: black;
+
+background-image: url("joe-woods-739738-unsplash.jpg");
+
+background-size: cover;
+background repeat: no-repeat
+
+}
+
+h1{
+font-size: 35px
+font-family: 'Notable', sans-serif;
+}
+
+.google-font{
+font-family: 'Notable', sans-serif;
+
+}
+
+.yellow-text{
+text: yellow;
+
+}
+
+#urgent{
+  color: red;
+}
+
+.box{
+  background-color: pink;
+  padding: 20px;
+  margin: 10px;
+  border: solid red 3px;
+  border: dotted red 3px;
+}
